@@ -1,0 +1,9 @@
+{
+  "name": "Disable Workspace Switcher",
+  "description": "Disable the workspace switcher popup.",
+  "version": 1,
+  "uuid": "disable-workspace-switcher@jbradaric.me",
+  "shell-version": [
+    "42"
+  ]
+}
