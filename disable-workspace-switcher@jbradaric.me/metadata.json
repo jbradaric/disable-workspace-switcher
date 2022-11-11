@@ -5,6 +5,7 @@
   "uuid": "disable-workspace-switcher@jbradaric.me",
   "url": "https://github.com/jbradaric/disable-workspace-switcher",
   "shell-version": [
-    "42"
+    "42",
+    "43"
   ]
 }
