@@ -1,7 +1,7 @@
 {
   "name": "Disable Workspace Switcher",
   "description": "Disable the workspace switcher popup.",
-  "version": 5,
+  "version": 6,
   "uuid": "disable-workspace-switcher@jbradaric.me",
   "url": "https://github.com/jbradaric/disable-workspace-switcher",
   "shell-version": [
